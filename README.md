@@ -13,12 +13,6 @@ Implementation of StackGAN model using Keras.
 - tqdm
 - h5py
 
-## Getting started
-
-## Options
-
-`--help` `-h`: show information
-
 
 ## Results
 
@@ -29,4 +23,4 @@ Implementation of StackGAN model using Keras.
 
 
 ## Author
-This project is inspired by https://github.com/kcct-fujimotolab/minimum-StackGAN
+Me but this project is inspired by https://github.com/kcct-fujimotolab/minimum-StackGAN
